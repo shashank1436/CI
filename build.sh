@@ -70,7 +70,7 @@ AnyKernelbranch="master"
 HOSST="sleeping-bag"
 USEER="shashank"
 
-TOOLCHAIN="gcc"
+TOOLCHAIN="clang"
 
 # setup telegram env
 export BOT_MSG_URL="https://api.telegram.org/bot$API_BOT/sendMessage"
