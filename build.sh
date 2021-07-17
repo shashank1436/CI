@@ -60,7 +60,7 @@ CODENAME="mido"
 KERNEL_NAME="SleepyKernel"
 
 # Kernel build release tag
-KRNL_REL_TAG="v4"
+KRNL_REL_TAG="v5"
 
 DEFCONFIG="mido_defconfig"
 
